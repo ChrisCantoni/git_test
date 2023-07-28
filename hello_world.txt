@@ -1,3 +1,5 @@
 This is a test on how to make commits to my github repo
 
 It's working well so far!
+
+I want to make changes to understand commits
